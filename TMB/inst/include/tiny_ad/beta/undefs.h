@@ -51,3 +51,4 @@
 #undef R_DT_exp
 #undef MATHLIB_WARNING2
 #undef ML_ERR_return_NAN
+#undef ISNAN

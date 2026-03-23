@@ -22,3 +22,4 @@
 #undef nsig_BESS
 #undef ML_NEGINF
 #undef MATHLIB_WARNING2
+#undef ISNAN

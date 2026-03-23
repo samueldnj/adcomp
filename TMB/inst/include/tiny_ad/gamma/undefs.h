@@ -18,3 +18,4 @@
 #undef M_LN_SQRT_PId2
 #undef MATHLIB_WARNING2
 #undef ML_ERR_return_NAN
+#undef ISNAN
